@@ -1,0 +1,20 @@
+/* Name: Avery 
+   Date: 10/14/2025
+   Description: CSS style sheet for Web Page Assinment */
+
+body {
+  background-color: #f0f8ff; /* light blue background */
+}
+h1 {
+  color: #2c3e50; /* dark blue text */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  font-size: 16px;
+}
+/* New formatting item: Add border and shadow to images */
+img {
+  border: 2px solid #2c3e50;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
